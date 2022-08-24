@@ -10,7 +10,7 @@
 
 ![HTML & CSS-Assighnment-project](https://img.shields.io/badge/HTML--TailwindCSS-Shopify--Clone-orange)
 
-## Shopify UI Clone (FULLY Responsive) [GO LIVE]()
+## Shopify UI Clone (FULLY Responsive) [GO LIVE](https://shopify-clone-saurabhp-ineuron.netlify.app/)
 
 ![website](./Assets/Scrrenshot.png)
 ---
@@ -27,7 +27,7 @@
 ---
 ## **Skill Gained in the project**
 - It based on grid and it was my first grid experience learn a lot of things in depth.
-- such project literly build confindence.
+- such project literally build confindence.
 
 # Time taken to finish this
 - it's Approximately **13 Hour** 
