@@ -1,5 +1,5 @@
 
-# Telwind CSS Bootcamp Project : Shopify (More Than +500 lines)
+# Tailwind CSS Bootcamp Project : Shopify (More Than +500 lines)
 **By  Saurabh**
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
